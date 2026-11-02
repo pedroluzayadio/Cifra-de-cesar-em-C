@@ -1,0 +1,19 @@
+Execute o programa para gerar o log de execucao.
+
+========================================
+DATA: 15/10/2026 01:48:31
+Palavra original: ANGOLA
+SHIFT: 2
+Sequencia: Numeros Primos
+Resultado: ESNXYP
+Quantidade de letras: 6
+========================================
+
+========================================
+DATA: 15/10/2026 01:49:45
+Palavra original: UNICID
+SHIFT: 6
+Sequencia: Progressao Geometrica
+Resultado: BVSQEP
+Quantidade de letras: 6
+========================================

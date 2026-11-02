@@ -1,0 +1,7 @@
+===== RESULTADO DA CRIPTOGRAFIA =====
+
+Palavra original: UNICID
+Palavra codificada: BVSQEP
+SHIFT: 6
+Tipo de sequencia: Progressao Geometrica
+Quantidade de letras: 6
